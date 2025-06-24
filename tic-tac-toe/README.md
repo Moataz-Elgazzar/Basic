@@ -13,3 +13,19 @@ This project was created to practice:
 1. Compile using g++:
    ```bash
    g++ main.cpp -o game
+
+# 🎮 Tic Tac Toe Game in C++
+
+A simple two-player console-based game built using C++.
+
+## 🎮 Features
+
+- Two-player mode  
+- Input validation  
+- Simple UI using ASCII
+
+## 🧠 What I Learned
+
+- Managing 2D arrays  
+- Switching player turns  
+- Checking winning conditions
